@@ -1,6 +1,0 @@
-function multiply(a, b) {
-  return a * b;
-}
-multiply(2, 3);
-
-module.exports = multiply;

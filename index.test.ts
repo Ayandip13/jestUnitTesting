@@ -1,4 +1,4 @@
-const multiply = require("./index");
+import { multiply } from './index'
 
 // test suit
 test("2 and 5 multiply should return 10", () => {
